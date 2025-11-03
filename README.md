@@ -12,7 +12,7 @@ Segundoo desafio do projeto da plataforma [DIO](https://www.dio.me/) curso "SQL 
 
 - Clientes levam veículos à oficina mêcanica para serem consertados ou para passarem por revisões periódicas.
 
-**2. Veículo**
+**2. Veiculo**
 
 - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega. 
 
@@ -28,7 +28,7 @@ Segundoo desafio do projeto da plataforma [DIO](https://www.dio.me/) curso "SQL 
 
 - A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra.
 
-**6. Peças**
+**6. Pecas**
 
 - O valor de cada peça também irá compor a OS
 
