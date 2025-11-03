@@ -28,7 +28,7 @@ Segundoo desafio do projeto da plataforma [DIO](https://www.dio.me/) curso "SQL 
 
 - A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra.
 
-**6. Pecas**
+**6. Peças**
 
 - O valor de cada peça também irá compor a OS
 
