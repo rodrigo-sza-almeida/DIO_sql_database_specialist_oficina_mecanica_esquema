@@ -38,7 +38,7 @@ Elaborar um esquema de modelo lógico de banco de dados funcional através dos r
 
 ## 💡Solução
 
-<img align="center" src="https://github.com/rodrigo-sza-almeida/DIO_sql_database_specialist_oficina_mecanica_esquema/blob/main/oficina_mecanica.png)" width=""/> 
+<img align="center" src="https://github.com/rodrigo-sza-almeida/DIO_sql_database_specialist_oficina_mecanica_esquema/blob/main/oficina_mecanica.png" width=""/> 
 
 ## 🧑‍💻 Tecnologia utilizada 
 
